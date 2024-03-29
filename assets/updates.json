@@ -5,14 +5,14 @@
             "latest": true,
             "date": "March 27th, 2024",
             "content": {
-                "title": "Allowed creation of custom chatting servers",
+                "title": "Custom",
                 "text": "Vixcord now allows for the support of making your own chatting servers, public or private! In this update, you can also now chat privately with friends or members."
             }
         },
         {
             "date": "January 12th, 2024",
             "content": {
-                "title": "Added Markdown to message input",
+                "title": "Markdown",
                 "text": "You can now add markdown content to Vixcord's custom chat input via `slate.js`"
             }
         }

@@ -15,6 +15,6 @@
                 "title": "Added Markdown to message input",
                 "text": "You can now add markdown content to Vixcord's custom chat input via `slate.js`"
             }
-        },
+        }
     ]
 }
